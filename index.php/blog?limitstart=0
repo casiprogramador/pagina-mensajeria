@@ -1,0 +1,1136 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<base href="http://livedemo00.template-help.com/joomla_39093/index.php/blog"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="generator" content="Joomla! - Open Source Content Management"/>
+<title>Blog</title>
+<script type="text/javascript">
+//<![CDATA[
+window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-7078796-5","ga_bs":"2"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/abv=2497138833/"},atok:"6503be8d40fa395e60ca3abdf0259355",zone:"template-help.com",rocket:"0",apps:{"ga_key":{"ua":"UA-7078796-5","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=1573736665/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<link href="http://livedemo00.template-help.com/joomla_39093/index.php/component/search/?limitstart=0&amp;Itemid=117&amp;format=opensearch" rel="search" title="Search StarCorp" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="/joomla_39093/media/system/css/modal.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/components/com_k2/css/k2.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css"/>
+<link rel="stylesheet" href="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/css/superfish.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/libraries/gantry/css/gantry.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/libraries/gantry/css/grid-16.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/libraries/gantry/css/joomla.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/style1.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/sizes.php" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/skeleton16.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/template.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/responsive.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/tooltips.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/prettyPhoto.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/framework-reset.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/elastislide.css" type="text/css"/>
+<link rel="stylesheet" href="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/style.css" type="text/css"/>
+<style type="text/css">body{background:#edebe6;}#rt-top{background:#ffffff;}#rt-top .rt-container{background:#ffffff;}#rt-header{background:#ffffff;}#rt-header .rt-container{background:#ffffff;}#rt-menu{background:#ffffff;}#rt-menu .rt-container{background:#ffffff;}#rt-showcase{background:#231f20;}#rt-showcase .rt-container{background:#231f20;}#rt-feature{background:#edebe6;}#rt-feature .rt-container{background:#edebe6;}#rt-utility{background:#edebe6;}#rt-utility .rt-container{background:#edebe6;}#rt-maintop{background:#edebe6;}#rt-maintop .rt-container{background:#edebe6;}#rt-main{background:#edebe6;}#rt-main .rt-container{background:#edebe6;}#rt-mainbottom{background:#edebe6;}#rt-mainbottom .rt-container{background:#edebe6;}#rt-bottom{background:#231f20;}#rt-bottom .rt-container{background:#231f20;}#rt-footer{background:#56534f;}#rt-footer .rt-container{background:#56534f;}#footer{background:#edebe6;}#footer .footer-container{background:#edebe6;}body a{color:#56534f;}body a:hover{color:#ffca33;}a.moduleItemReadMore,a.k2ReadMore{color:#353331;background:#edebe6;}a.moduleItemReadMore:hover,a.k2ReadMore:hover{color:#ffca33;background:#231f20;}div.itemCommentsForm form input#submitCommentButton,input[type="submit"],button.button{color:#ffca33;background:#231f20;}div.itemCommentsForm form input#submitCommentButton:hover,input[type="submit"]:hover,button.button:hover{color:#353331;background:#edebe6;}.menutop li.root>.item,.sf-menu>li,.sf-menu>li>a{color:#231f20;background:#ffffff;}.menutop li.root>.item:hover,.menutop li.root.active>.item,.menutop li.root.f-mainparent-itemfocus>.item,.sf-menu>li:hover,.sf-menu>li.sfHover,.sf-menu>li.current .sf-menu>li:hover>a,.sf-menu>li.sfHover>a,.sf-menu>li>a:focus,.sf-menu>li>a:hover,.sf-menu>li>a:active,.sf-menu>li.current>a{color:#ffca33;background:#231f20;}.menutop ul,.sf-menu ul{background:#ffffff;}.menutop ul li>.item,.sf-menu ul>li,.sf-menu ul>li>a{color:#959491;background:#ffffff;}.menutop ul li>.item:hover,.menutop ul li.active>.item,.menutop ul li.f-menuparent-itemfocus>.item,.sf-menu ul>li>a:hover,.sf-menu ul>li>a:active,.sf-menu ul>li>a:focus,.sf-menu ul>li.current>a,.sf-menu ul>li.current>a,.sf-menu ul>li.current{color:#231f20;background:#ffffff;}{background:;}{background:;}{background:;}body {font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#56534f; }
+  </style>
+  <script src="/joomla_39093/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+  <script src="/joomla_39093/components/com_k2/js/k2.js" type="text/javascript"></script>
+  <script src="/joomla_39093/plugins/system/rokbox/rokbox.js" type="text/javascript"></script>
+  <script src="/joomla_39093/plugins/system/rokbox/themes/light/rokbox-config.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/js/superfish.js" type="text/javascript"></script>
+  <script src="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/js/jquery.responsivemenu.js" type="text/javascript"></script>
+  <script src="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/js/jquery.hoverIntent.js" type="text/javascript"></script>
+  <script src="/joomla_39093/libraries/gantry/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/jQuery.ScrollTo.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/tooltips.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/jquery.tipsy.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/scripts.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/joomla_39093/';var rokboxPath = '/joomla_39093/plugins/system/rokbox/';window.addEvent('domready', function() {
+});
+window.addEvent('load', function() {
+});
+
+  </script>
+			
+			<script type="text/javascript">
+				jQuery.noConflict();
+			</script>
+			
+					
+		<!--[if IE 8]>
+			<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/ie8.css"> 
+		<![endif]-->
+		
+		<!--[if lt IE 9]>
+			<style type="text/css">
+				div.k2ItemsBlock.main-serv ul li{behavior: url(/joomla_39093/templates/theme939/js/PIE.htc);}
+			</style>
+		<![endif]-->
+    <script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7078796-5']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+	
+	
+	
+    <body  class="cssstyle-style1 sfmenu-type-sfmenu menu-type-fusionmenu col16"id="blog">
+	
+		<div id="body-wrapper">
+		
+			<div id="rt-iewarn">
+				<div class="rt-container">
+										<div class="clear"></div>
+				</div>
+			</div>
+	
+		<div class="wrapper ">
+									<div id="rt-top" >
+				<div class="rt-container">
+					<div class="rt-grid-8 rt-alpha">
+    			<div class="rt-block">
+    	    	<a href="/joomla_39093/" id="rt-logo"></a>
+    		</div>
+	    
+</div>
+<div class="rt-grid-8 rt-omega">
+                        <div class="rt-block">
+                                <form action="/joomla_39093/index.php/blog" method="post">
+	<div class="mod_search ">
+		<label for="mod-search-searchword"> </label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" /><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="117" />
+	</div>
+</form>
+            </div>
+        	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+												<div id="rt-menu">
+				<div class="rt-container">
+					
+<ul class="sf-menu ">
+
+<li class="item-101"><a href="/joomla_39093/" >Home</a></li><li class="item-116 deeper parent"><a href="/joomla_39093/index.php/about-us" >About Us</a><ul><li class="item-126"><a href="/joomla_39093/index.php/about-us/our-team" >Our Team</a></li><li class="item-127 deeper parent"><a href="/joomla_39093/index.php/about-us/our-history" >Our history</a><ul><li class="item-122"><a href="/joomla_39093/index.php/about-us/our-history/testimonials" >Testimonials</a></li></ul></li><li class="item-123"><a href="/joomla_39093/index.php/about-us/faqs" >FAQs</a></li></ul></li><li class="item-161"><a href="/joomla_39093/index.php/services" >Services</a></li><li class="item-118 deeper parent"><span class="separator">Products</span>
+<ul><li class="item-131"><a href="/joomla_39093/index.php/products/column-2" >Columns 2</a></li><li class="item-132"><a href="/joomla_39093/index.php/products/column-3" >Columns 3</a></li><li class="item-133"><a href="/joomla_39093/index.php/products/column-4" >Columns 4</a></li></ul></li><li class="item-117 current active"><a href="/joomla_39093/index.php/blog" >Blog</a></li><li class="item-114"><a href="/joomla_39093/index.php/contacts" >Contacts</a></li></ul>
+
+<script type="text/javascript">
+		// initialise plugins
+		jQuery(function(){
+			jQuery('ul.sf-menu').superfish();
+			/*jQuery('ul.sf-menu').responsiveMenu();*/
+			/*jQuery('ul.sf-menu').sftouchscreen();*/
+		});
+</script>
+					<div class="clear"></div>
+				</div>
+			</div>
+												<div id="rt-feature">
+				<div class="rt-container">
+										<div class="clear"></div>
+				</div>
+			</div>
+																		          
+			<div id="rt-main" class="mb12-sa4">
+                <div class="rt-container">
+                    <div class="rt-grid-12 ">
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	
+<!-- Start K2 Category Layout -->
+<div id="k2Container" class="itemListView blog">
+
+<!-- Page title -->
+			<div class="componentheading blog">
+			Blog		</div>
+		
+<!-- RSS feed icon -->
+	
+<!-- Blocks for current category and subcategories -->
+			<div class="itemListCategoriesBlock">
+		
+	<!-- Category block -->
+						
+
+	<!-- Subcategories -->
+					</div>					
+	
+
+<!-- Item list -->
+		
+		<div class="itemList">
+		
+
+				<!-- Leading items -->
+			<div id="itemListLeading">
+				
+								
+									<div class="K2ItemsRow">
+								
+				<div class="itemContainer itemContainerLast"style="width:100.0%;">
+					
+<!-- Start K2 Item Layout -->
+<div class="catItemView blog groupLeading blog">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+		
+	
+<!--Item Header - START -->
+	<div class="catItemHeader">
+	
+		
+<!-- Item title -->
+				
+						
+			<h3 class="catItemTitle">
+
+								
+					Fusce      euismod      consequat     ante.				
+				
+							</h3>
+				
+<!-- Item Rating -->
+	
+<!-- Item Author -->		
+					<span class="catItemAuthor">
+				Submitted by  
+					<a rel="author" href="/joomla_39093/index.php/blog/itemlist/user/42-superuser">
+						Super User					</a>
+			</span>
+				
+<!-- Date created -->
+					<span class="catItemDateCreated">
+				on				Wed, 18.01.2012 - 08:36			</span>
+				
+<!-- Anchor link to comments below -->	
+			<div class="catItemCommentsLink">
+		with											<a href="/joomla_39093/index.php/blog/item/38-fusce-euismod-consequat-ante#itemCommentsAnchor">
+					5 Comments				</a>
+									</div>
+			
+	</div>
+	
+	
+<!--Item Header - END -->
+
+
+	<!-- Plugins: AfterDisplayTitle -->
+	
+	<!-- K2 Plugins: K2AfterDisplayTitle -->
+		
+
+<!--Item body - START -->
+	<div class="catItemBody">
+
+		<!-- Plugins: BeforeDisplayContent -->
+		
+		<!-- K2 Plugins: K2BeforeDisplayContent -->
+				
+		
+<!-- Item Image -->
+					<div class="catItemImageBlock">
+				<span class="catItemImage">
+				<a href="/joomla_39093/index.php/blog/item/38-fusce-euismod-consequat-ante" title="Fusce      euismod      consequat     ante.">
+					<img src="/joomla_39093/media/k2/items/cache/36fdb1a35cd2f54f95cf2119fb5bc7ed_M.jpg" alt="Fusce      euismod      consequat     ante." />
+				</a>
+				</span>
+				<div class="clr"></div>
+			</div>
+		
+<!-- Item introtext -->		
+					<div class="catItemIntroText">
+				<h5>Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. </h5>
+<p>Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lac enim. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. </p>
+
+			</div>
+		
+		<div class="clr"></div>
+
+<!-- Item extra fields -->		
+		
+		<!-- Plugins: AfterDisplayContent -->
+		
+		<!-- K2 Plugins: K2AfterDisplayContent -->
+		
+		<div class="clr"></div>
+	</div>
+<!--Item body - END -->
+
+
+
+	
+		<div class="catItemLinks">
+
+<!-- Item Hits -->		
+			
+<!-- Item category name -->
+							<div class="catItemCategory">
+					<a href="/joomla_39093/index.php/blog/itemlist/category/11-sed-pretium-diam-sit-amet">Sed pretium</a>
+				</div>
+						
+<!-- Item "read more..." link -->
+										<div class="catItemReadMore">
+						<a class="k2ReadMore" href="/joomla_39093/index.php/blog/item/38-fusce-euismod-consequat-ante">
+							More						</a>
+					</div>
+					
+<!-- Item tags -->
+			
+<!-- Item attachments -->
+			
+			<div class="clr"></div>
+		</div>
+	
+	<div class="clr"></div>
+
+<!-- Item video -->	
+		
+<!-- Item image gallery -->
+		
+
+	<div class="clr"></div>
+
+<!-- Item date modified -->
+	
+	<!-- Plugins: AfterDisplay -->
+	
+	<!-- K2 Plugins: K2AfterDisplay -->
+	
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+					<div class="clr"></div>
+				</div>
+								<div class="clr"></div>
+					</div>
+								
+								
+									<div class="K2ItemsRow">
+								
+				<div class="itemContainer itemContainerLast"style="width:100.0%;">
+					
+<!-- Start K2 Item Layout -->
+<div class="catItemView blog groupLeading blog">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+		
+	
+<!--Item Header - START -->
+	<div class="catItemHeader">
+	
+		
+<!-- Item title -->
+				
+						
+			<h3 class="catItemTitle">
+
+								
+					Lorem      ipsum     dolor     sit     amet,      consectetuer      adipiscing      elit. 				
+				
+							</h3>
+				
+<!-- Item Rating -->
+	
+<!-- Item Author -->		
+					<span class="catItemAuthor">
+				Submitted by  
+					<a rel="author" href="/joomla_39093/index.php/blog/itemlist/user/42-superuser">
+						Super User					</a>
+			</span>
+				
+<!-- Date created -->
+					<span class="catItemDateCreated">
+				on				Wed, 18.01.2012 - 08:36			</span>
+				
+<!-- Anchor link to comments below -->	
+			<div class="catItemCommentsLink">
+		with											<a href="/joomla_39093/index.php/blog/item/37-lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit#itemCommentsAnchor">
+					0 Comments				</a>
+									</div>
+			
+	</div>
+	
+	
+<!--Item Header - END -->
+
+
+	<!-- Plugins: AfterDisplayTitle -->
+	
+	<!-- K2 Plugins: K2AfterDisplayTitle -->
+		
+
+<!--Item body - START -->
+	<div class="catItemBody">
+
+		<!-- Plugins: BeforeDisplayContent -->
+		
+		<!-- K2 Plugins: K2BeforeDisplayContent -->
+				
+		
+<!-- Item Image -->
+					<div class="catItemImageBlock">
+				<span class="catItemImage">
+				<a href="/joomla_39093/index.php/blog/item/37-lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit" title="Lorem      ipsum     dolor     sit     amet,      consectetuer      adipiscing      elit. ">
+					<img src="/joomla_39093/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_M.jpg" alt="Lorem      ipsum     dolor     sit     amet,      consectetuer      adipiscing      elit. " />
+				</a>
+				</span>
+				<div class="clr"></div>
+			</div>
+		
+<!-- Item introtext -->		
+					<div class="catItemIntroText">
+				<h5>Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. </h5>
+<p>Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lac enim. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. </p>
+
+			</div>
+		
+		<div class="clr"></div>
+
+<!-- Item extra fields -->		
+		
+		<!-- Plugins: AfterDisplayContent -->
+		
+		<!-- K2 Plugins: K2AfterDisplayContent -->
+		
+		<div class="clr"></div>
+	</div>
+<!--Item body - END -->
+
+
+
+	
+		<div class="catItemLinks">
+
+<!-- Item Hits -->		
+			
+<!-- Item category name -->
+							<div class="catItemCategory">
+					<a href="/joomla_39093/index.php/blog/itemlist/category/10-cras-gravida">Cras gravida </a>
+				</div>
+						
+<!-- Item "read more..." link -->
+										<div class="catItemReadMore">
+						<a class="k2ReadMore" href="/joomla_39093/index.php/blog/item/37-lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit">
+							More						</a>
+					</div>
+					
+<!-- Item tags -->
+			
+<!-- Item attachments -->
+			
+			<div class="clr"></div>
+		</div>
+	
+	<div class="clr"></div>
+
+<!-- Item video -->	
+		
+<!-- Item image gallery -->
+		
+
+	<div class="clr"></div>
+
+<!-- Item date modified -->
+	
+	<!-- Plugins: AfterDisplay -->
+	
+	<!-- K2 Plugins: K2AfterDisplay -->
+	
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+					<div class="clr"></div>
+				</div>
+								<div class="clr"></div>
+					</div>
+								
+								
+									<div class="K2ItemsRow">
+								
+				<div class="itemContainer itemContainerLast"style="width:100.0%;">
+					
+<!-- Start K2 Item Layout -->
+<div class="catItemView blog groupLeading blog">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+		
+	
+<!--Item Header - START -->
+	<div class="catItemHeader">
+	
+		
+<!-- Item title -->
+				
+						
+			<h3 class="catItemTitle">
+
+								
+					Pellen     tesque     sed      dolor.     Aliquam     congue     fermentum      nisl.				
+				
+							</h3>
+				
+<!-- Item Rating -->
+	
+<!-- Item Author -->		
+					<span class="catItemAuthor">
+				Submitted by  
+					<a rel="author" href="/joomla_39093/index.php/blog/itemlist/user/42-superuser">
+						Super User					</a>
+			</span>
+				
+<!-- Date created -->
+					<span class="catItemDateCreated">
+				on				Thu, 26.01.2012 - 17:22			</span>
+				
+<!-- Anchor link to comments below -->	
+			<div class="catItemCommentsLink">
+		with											<a href="/joomla_39093/index.php/blog/item/50-pellen-tesque-sed-dolor-aliquam-congue-fermentum-nisl#itemCommentsAnchor">
+					0 Comments				</a>
+									</div>
+			
+	</div>
+	
+	
+<!--Item Header - END -->
+
+
+	<!-- Plugins: AfterDisplayTitle -->
+	
+	<!-- K2 Plugins: K2AfterDisplayTitle -->
+		
+
+<!--Item body - START -->
+	<div class="catItemBody">
+
+		<!-- Plugins: BeforeDisplayContent -->
+		
+		<!-- K2 Plugins: K2BeforeDisplayContent -->
+				
+		
+<!-- Item Image -->
+					<div class="catItemImageBlock">
+				<span class="catItemImage">
+				<a href="/joomla_39093/index.php/blog/item/50-pellen-tesque-sed-dolor-aliquam-congue-fermentum-nisl" title="Pellen     tesque     sed      dolor.     Aliquam     congue     fermentum      nisl.">
+					<img src="/joomla_39093/media/k2/items/cache/a522a6005d1cb428ea34ef1769cd7452_M.jpg" alt="Pellen     tesque     sed      dolor.     Aliquam     congue     fermentum      nisl." />
+				</a>
+				</span>
+				<div class="clr"></div>
+			</div>
+		
+<!-- Item introtext -->		
+					<div class="catItemIntroText">
+				<h5>Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. </h5>
+<p>Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lac enim. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. </p>
+
+			</div>
+		
+		<div class="clr"></div>
+
+<!-- Item extra fields -->		
+		
+		<!-- Plugins: AfterDisplayContent -->
+		
+		<!-- K2 Plugins: K2AfterDisplayContent -->
+		
+		<div class="clr"></div>
+	</div>
+<!--Item body - END -->
+
+
+
+	
+		<div class="catItemLinks">
+
+<!-- Item Hits -->		
+			
+<!-- Item category name -->
+							<div class="catItemCategory">
+					<a href="/joomla_39093/index.php/blog/itemlist/category/12-vestibulum-ante">Vestibulum ante</a>
+				</div>
+						
+<!-- Item "read more..." link -->
+										<div class="catItemReadMore">
+						<a class="k2ReadMore" href="/joomla_39093/index.php/blog/item/50-pellen-tesque-sed-dolor-aliquam-congue-fermentum-nisl">
+							More						</a>
+					</div>
+					
+<!-- Item tags -->
+			
+<!-- Item attachments -->
+			
+			<div class="clr"></div>
+		</div>
+	
+	<div class="clr"></div>
+
+<!-- Item video -->	
+		
+<!-- Item image gallery -->
+		
+
+	<div class="clr"></div>
+
+<!-- Item date modified -->
+	
+	<!-- Plugins: AfterDisplay -->
+	
+	<!-- K2 Plugins: K2AfterDisplay -->
+	
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+					<div class="clr"></div>
+				</div>
+								<div class="clr"></div>
+					</div>
+											</div>
+			<div class="clr"></div>
+			
+			
+						
+
+						
+
+			<div class="clr"></div>
+		</div>
+		
+
+		<!-- Pagination -->
+					<div class="k2Pagination">
+				<ul><li class="pagination-start"><span class="pagenav">Start</span></li><li class="pagination-prev"><span class="pagenav">Prev</span></li><li><span class="pagenav">1</span></li><li><a title="2" href="/joomla_39093/index.php/blog?start=3" class="pagenav">2</a></li><li class="pagination-next"><a title="Next" href="/joomla_39093/index.php/blog?start=3" class="pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/joomla_39093/index.php/blog?start=3" class="pagenav">End</a></li></ul>				<div class="clr"></div>
+							</div>
+		
+	</div>
+<!-- End K2 Category Layout -->
+
+<!-- JoomlaWorks "K2" (v2.5.4) | Learn more about K2 at http://getk2.org -->
+
+
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                                <div class="rt-grid-4 ">
+                <div id="rt-sidebar-a">
+                                    <div class="mod-style1">
+                    <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Archives</h2>
+				</div>
+                                <div id="k2ModuleBox90" class="k2ArchivesBlock mod-style1">
+  <ul>
+        <li>
+            <a href="/joomla_39093/index.php/blog/itemlist/date/2012/4">
+        April 2012              </a>
+          </li>
+        <li>
+            <a href="/joomla_39093/index.php/blog/itemlist/date/2012/1">
+        January 2012              </a>
+          </li>
+        <li>
+            <a href="/joomla_39093/index.php/blog/itemlist/date/2011/12">
+        December 2011              </a>
+          </li>
+      </ul>
+</div>
+            </div>
+                </div>
+		                <div class="mod-style1">
+                    <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Recent Posts</h2>
+				</div>
+                                
+<div id="k2ModuleBox117" class="k2ItemsBlock mod-style1">
+
+	
+	  <ul>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/87-online-services">Online Services</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/86-business-planning">Business Planning </a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/85-professional-research">professional       Research	 </a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/84-market-research">Market  Research</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/83-international-expansion-advice">International  Expansion  Advice</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/82-expert-business-plans">Expert  Business  Plans</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/joomla_39093/index.php/services/item/81-franchise-assessment">Franchise  Assessment</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+	
+	
+</div>
+            </div>
+                </div>
+		                <div class="mod-style1">
+                    <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Categories</h2>
+				</div>
+                                
+<div id="k2ModuleBox83" class="k2CategoriesListBlock mod-style1">
+	<ul class="level0"><li><a href="/joomla_39093/index.php/blog/itemlist/category/10-cras-gravida"><span class="catTitle">Cras gravida </span><span class="catCounter"></span></a></li><li><a href="/joomla_39093/index.php/blog/itemlist/category/11-sed-pretium-diam-sit-amet"><span class="catTitle">Sed pretium</span><span class="catCounter"></span></a></li><li><a href="/joomla_39093/index.php/blog/itemlist/category/12-vestibulum-ante"><span class="catTitle">Vestibulum ante</span><span class="catCounter"></span></a></li><li><a href="/joomla_39093/index.php/blog/itemlist/category/13-etiam-eu-nisl"><span class="catTitle">Etiam eu nisl</span><span class="catCounter"></span></a></li></ul></div>
+            </div>
+                </div>
+		
+                </div>
+            </div>
+
+    
+                       <div class="clear"></div>
+                </div>
+            </div>
+												<div class="push"></div>
+		</div>
+				
+		<div id="footer">
+			<div class="footer-container">
+			
+								<div id="rt-footer">
+					<div class="rt-container">
+						<div class="rt-grid-3 rt-alpha">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Our    Company</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-134"><a href="#" ><span>About Us</span></a></li><li id="item-135"><a href="#" ><span>Work Team</span></a></li><li id="item-136"><a href="#" ><span>What We Do</span></a></li><li id="item-137"><a href="#" ><span>Clients</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-3">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Advice</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-142"><a href="#" ><span>Recent Issues</span></a></li><li id="item-143"><a href="#" ><span>FAQ</span></a></li><li id="item-144"><a href="#" ><span>Solutions</span></a></li><li id="item-145"><a href="/joomla_39093/index.php/contacts" ><span>Contacts</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-3">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Popular    Items</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-138"><a href="#" ><span>Affiliate Program</span></a></li><li id="item-139"><a href="#" ><span>Production</span></a></li><li id="item-140"><a href="#" ><span>Risk Management</span></a></li><li id="item-141"><a href="#" ><span>Consultation</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-4">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Join    In</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-149"><a href="/joomla_39093/index.php/sign-in" ><span>Sign In</span></a></li><li id="item-150"><a href="#" ><span>Forums</span></a></li><li id="item-151"><a href="#" ><span>Promotions</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-3 rt-omega">
+                        <div class="rt-block">
+                                <div class="smile" style="text-align: left "><ul> <li><a style="margin:3px;" rel="nofollow" href="#" target="_blank"><img src="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/icons/custom/size1/feed.png " alt="Feed" title="RSS Feed" />RSS Feed</a><li><a style="margin:3px;" rel="nofollow" href="#" target="_blank"><img src="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/icons/custom/size1/facebook.png " alt="Facebook" title="Follow us on Facebook" />Facebook</a></li><li><a style="margin:3px;" rel="nofollow" href="#" target="_blank"><img src="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/icons/custom/size1/twitter.png " alt="Twitter" title="Follow us on Twitter" />Twitter</a></li><div class="smilecredits" style="text-align:text-align: left ;margin: 0px 3px 0px 3px;"><a href="http://www.viperwebsites.com/" title="Social Media Icons for Joomla!">Social Media Icons for Joomla!</a></div>	</ul>
+	</div>
+    <div class="clr"></div>
+            </div>
+        	
+</div>
+						 						<div class="clear"></div>
+					</div>
+				</div>
+							
+								<div id="rt-copyright">
+					<div class="rt-container">
+						<div class="rt-grid-16 rt-alpha rt-omega">
+    			
+			<div class="clear"></div>
+			<div class="rt-block">
+				<p class="copyright">StarCorp (&copy;) 2013 | <a href="/joomla_39093/index.php/privacy-policy">Privacy Policy</a></p>
+			</div>
+			
+		<div class="clear"></div>
+		<div class="rt-block totop">
+			<a href="#" id="gantry-totop">Scroll to Top</a>
+		</div>
+		
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+																              <div id="rt-popup">
+                                      <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">User Login</h2>
+				</div>
+                                
+<div id="k2ModuleBox85" class="k2LoginBlock">
+	<form action="/joomla_39093/index.php/blog" method="post" name="login" id="form-login" >
+			  
+	  <fieldset class="input">
+	    <p id="form-login-username">
+	      <label for="modlgn_username">Username</label>
+	      <input id="modlgn_username" type="text" name="username" class="inputbox" size="18" />
+	    </p>
+	    <p id="form-login-password">
+	      <label for="modlgn_passwd">Password</label>
+	      <input id="modlgn_passwd" type="password" name="password" class="inputbox" size="18" />
+	    </p>
+	    	    <p id="form-login-remember">
+	      <label for="modlgn_remember">Remember me</label>
+	      <input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" />
+	    </p>
+	    	    
+	    <input type="submit" name="Submit" class="button" value="Login" />
+	  </fieldset>
+	  
+	  <ul>
+	    <li><a href="/joomla_39093/index.php/sign-in?view=reset">Forgot your password?</a></li>
+	    <li><a href="/joomla_39093/index.php/sign-in?view=remind">Forgot your username?</a></li>
+	    	    <li><a href="/joomla_39093/index.php/sign-in?view=registration">Create an account</a></li>
+	    	  </ul>
+	  
+	  	  
+	  <input type="hidden" name="option" value="com_users" />
+	  <input type="hidden" name="task" value="user.login" />
+	  <input type="hidden" name="return" value="L2pvb21sYV8zOTA5My9pbmRleC5waHAvYmxvZz9saW1pdHN0YXJ0PTA=" />
+	  <input type="hidden" name="6380fa7c1d01da3b8dfcbeb08dba4467" value="1" />	</form>
+</div>
+            </div>
+        	
+              </div>
+
+			</div>
+		</div>
+		</div>
+
+<!--LIVEDEMO_00 -->
+
+<script type="text/javascript">/* CloudFlare analytics upgrade */
+</script>
+
+	</body>
+</html>

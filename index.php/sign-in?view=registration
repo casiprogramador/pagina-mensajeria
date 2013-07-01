@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<base href="http://livedemo00.template-help.com/joomla_39093/index.php/sign-in"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="generator" content="Joomla! - Open Source Content Management"/>
+<title>Sign In</title>
+<script type="text/javascript">
+//<![CDATA[
+window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-7078796-5","ga_bs":"2"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/abv=2497138833/"},atok:"6503be8d40fa395e60ca3abdf0259355",zone:"template-help.com",rocket:"0",apps:{"ga_key":{"ua":"UA-7078796-5","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=1573736665/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<link href="http://livedemo00.template-help.com/joomla_39093/index.php/component/search/?Itemid=149&amp;format=opensearch" rel="search" title="Search StarCorp" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="/joomla_39093/media/system/css/modal.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/components/com_k2/css/k2.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css"/>
+<link rel="stylesheet" href="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/css/superfish.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/libraries/gantry/css/gantry.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/libraries/gantry/css/grid-16.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/libraries/gantry/css/joomla.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/style1.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/sizes.php" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/skeleton16.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/template.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/responsive.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/tooltips.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/prettyPhoto.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/framework-reset.css" type="text/css"/>
+<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/elastislide.css" type="text/css"/>
+<link rel="stylesheet" href="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/style.css" type="text/css"/>
+<style type="text/css">body{background:#edebe6;}#rt-top{background:#ffffff;}#rt-top .rt-container{background:#ffffff;}#rt-header{background:#ffffff;}#rt-header .rt-container{background:#ffffff;}#rt-menu{background:#ffffff;}#rt-menu .rt-container{background:#ffffff;}#rt-showcase{background:#231f20;}#rt-showcase .rt-container{background:#231f20;}#rt-feature{background:#edebe6;}#rt-feature .rt-container{background:#edebe6;}#rt-utility{background:#edebe6;}#rt-utility .rt-container{background:#edebe6;}#rt-maintop{background:#edebe6;}#rt-maintop .rt-container{background:#edebe6;}#rt-main{background:#edebe6;}#rt-main .rt-container{background:#edebe6;}#rt-mainbottom{background:#edebe6;}#rt-mainbottom .rt-container{background:#edebe6;}#rt-bottom{background:#231f20;}#rt-bottom .rt-container{background:#231f20;}#rt-footer{background:#56534f;}#rt-footer .rt-container{background:#56534f;}#footer{background:#edebe6;}#footer .footer-container{background:#edebe6;}body a{color:#56534f;}body a:hover{color:#ffca33;}a.moduleItemReadMore,a.k2ReadMore{color:#353331;background:#edebe6;}a.moduleItemReadMore:hover,a.k2ReadMore:hover{color:#ffca33;background:#231f20;}div.itemCommentsForm form input#submitCommentButton,input[type="submit"],button.button{color:#ffca33;background:#231f20;}div.itemCommentsForm form input#submitCommentButton:hover,input[type="submit"]:hover,button.button:hover{color:#353331;background:#edebe6;}.menutop li.root>.item,.sf-menu>li,.sf-menu>li>a{color:#231f20;background:#ffffff;}.menutop li.root>.item:hover,.menutop li.root.active>.item,.menutop li.root.f-mainparent-itemfocus>.item,.sf-menu>li:hover,.sf-menu>li.sfHover,.sf-menu>li.current .sf-menu>li:hover>a,.sf-menu>li.sfHover>a,.sf-menu>li>a:focus,.sf-menu>li>a:hover,.sf-menu>li>a:active,.sf-menu>li.current>a{color:#ffca33;background:#231f20;}.menutop ul,.sf-menu ul{background:#ffffff;}.menutop ul li>.item,.sf-menu ul>li,.sf-menu ul>li>a{color:#959491;background:#ffffff;}.menutop ul li>.item:hover,.menutop ul li.active>.item,.menutop ul li.f-menuparent-itemfocus>.item,.sf-menu ul>li>a:hover,.sf-menu ul>li>a:active,.sf-menu ul>li>a:focus,.sf-menu ul>li.current>a,.sf-menu ul>li.current>a,.sf-menu ul>li.current{color:#231f20;background:#ffffff;}{background:;}{background:;}{background:;}body {font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#56534f; }
+  </style>
+  <script src="/joomla_39093/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+  <script src="/joomla_39093/components/com_k2/js/k2.js" type="text/javascript"></script>
+  <script src="/joomla_39093/media/system/js/validate.js" type="text/javascript"></script>
+  <script src="/joomla_39093/plugins/system/rokbox/rokbox.js" type="text/javascript"></script>
+  <script src="/joomla_39093/plugins/system/rokbox/themes/light/rokbox-config.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/js/superfish.js" type="text/javascript"></script>
+  <script src="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/js/jquery.responsivemenu.js" type="text/javascript"></script>
+  <script src="http://livedemo00.template-help.com/joomla_39093/modules/mod_superfish_menu/js/jquery.hoverIntent.js" type="text/javascript"></script>
+  <script src="/joomla_39093/libraries/gantry/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/jQuery.ScrollTo.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/tooltips.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/jquery.tipsy.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+  <script src="/joomla_39093/templates/theme939/js/scripts.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/joomla_39093/';function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal-button'), {
+				parse: 'rel'
+			});
+		});
+			function isBrowserIE() {
+				return navigator.appName=="Microsoft Internet Explorer";
+			}
+
+			function jInsertEditorText( text, editor ) {
+				if (isBrowserIE()) {
+					if (window.parent.tinyMCE) {
+						window.parent.tinyMCE.selectedInstance.selection.moveToBookmark(window.parent.global_ie_bookmark);
+					}
+				}
+				tinyMCE.execInstanceCommand(editor, 'mceInsertContent',false,text);
+			}
+
+			var global_ie_bookmark = false;
+
+			function IeCursorFix() {
+				if (isBrowserIE()) {
+					tinyMCE.execCommand('mceInsertContent', false, '');
+					global_ie_bookmark = tinyMCE.activeEditor.selection.getBookmark(false);
+				}
+				return true;
+			}var rokboxPath = '/joomla_39093/plugins/system/rokbox/';window.addEvent('domready', function() {
+});
+window.addEvent('load', function() {
+});
+
+  </script>
+  <script type="text/javascript" src="http://livedemo00.template-help.com/joomla_39093/media/editors/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
+	<script type="text/javascript">
+				tinyMCE.init({
+					// General
+					directionality: "ltr",
+					editor_selector : "mce_editable",
+					language : "en",
+					mode : "specific_textareas",
+					skin : "default",
+					theme : "advanced",
+					// Cleanup/Output
+					inline_styles : true,
+					gecko_spellcheck : true,
+					entity_encoding : "raw",
+					extended_valid_elements : "hr[id|title|alt|class|width|size|noshade|style],img[class|src|border=0|alt|title|hspace|vspace|width|height|align|onmouseover|onmouseout|name|style],a[id|class|name|href|target|title|onclick|rel|style]",
+					force_br_newlines : false, force_p_newlines : true, forced_root_block : 'p',
+					invalid_elements : "script,applet,iframe",
+					// URL
+					relative_urls : true,
+					remove_script_host : false,
+					document_base_url : "http://livedemo00.template-help.com/joomla_39093/",
+					// Layout
+					content_css : "http://livedemo00.template-help.com/joomla_39093/templates/system/css/editor.css",
+					// Advanced theme
+					theme_advanced_toolbar_location : "top",
+					theme_advanced_toolbar_align : "left",
+					theme_advanced_source_editor_height : "200",
+					theme_advanced_source_editor_width : "300",
+					theme_advanced_resizing : true,
+					theme_advanced_resize_horizontal : true,
+					theme_advanced_statusbar_location : "bottom", theme_advanced_path : true
+				});
+				</script>
+			
+			<script type="text/javascript">
+				jQuery.noConflict();
+			</script>
+			
+					
+		<!--[if IE 8]>
+			<link rel="stylesheet" href="/joomla_39093/templates/theme939/css/ie8.css"> 
+		<![endif]-->
+		
+		<!--[if lt IE 9]>
+			<style type="text/css">
+				div.k2ItemsBlock.main-serv ul li{behavior: url(/joomla_39093/templates/theme939/js/PIE.htc);}
+			</style>
+		<![endif]-->
+    <script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7078796-5']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+	
+	
+	
+    <body  class="cssstyle-style1 sfmenu-type-sfmenu menu-type-fusionmenu col16"id="all">
+	
+		<div id="body-wrapper">
+		
+			<div id="rt-iewarn">
+				<div class="rt-container">
+										<div class="clear"></div>
+				</div>
+			</div>
+	
+		<div class="wrapper ">
+									<div id="rt-top" >
+				<div class="rt-container">
+					<div class="rt-grid-8 rt-alpha">
+    			<div class="rt-block">
+    	    	<a href="/joomla_39093/" id="rt-logo"></a>
+    		</div>
+	    
+</div>
+<div class="rt-grid-8 rt-omega">
+                        <div class="rt-block">
+                                <form action="/joomla_39093/index.php/sign-in" method="post">
+	<div class="mod_search ">
+		<label for="mod-search-searchword"> </label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" /><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="149" />
+	</div>
+</form>
+            </div>
+        	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+												<div id="rt-menu">
+				<div class="rt-container">
+					
+<ul class="sf-menu ">
+
+<li class="item-101"><a href="/joomla_39093/" >Home</a></li><li class="item-116 deeper parent"><a href="/joomla_39093/index.php/about-us" >About Us</a><ul><li class="item-126"><a href="/joomla_39093/index.php/about-us/our-team" >Our Team</a></li><li class="item-127 deeper parent"><a href="/joomla_39093/index.php/about-us/our-history" >Our history</a><ul><li class="item-122"><a href="/joomla_39093/index.php/about-us/our-history/testimonials" >Testimonials</a></li></ul></li><li class="item-123"><a href="/joomla_39093/index.php/about-us/faqs" >FAQs</a></li></ul></li><li class="item-161"><a href="/joomla_39093/index.php/services" >Services</a></li><li class="item-118 deeper parent"><span class="separator">Products</span>
+<ul><li class="item-131"><a href="/joomla_39093/index.php/products/column-2" >Columns 2</a></li><li class="item-132"><a href="/joomla_39093/index.php/products/column-3" >Columns 3</a></li><li class="item-133"><a href="/joomla_39093/index.php/products/column-4" >Columns 4</a></li></ul></li><li class="item-117"><a href="/joomla_39093/index.php/blog" >Blog</a></li><li class="item-114"><a href="/joomla_39093/index.php/contacts" >Contacts</a></li></ul>
+
+<script type="text/javascript">
+		// initialise plugins
+		jQuery(function(){
+			jQuery('ul.sf-menu').superfish();
+			/*jQuery('ul.sf-menu').responsiveMenu();*/
+			/*jQuery('ul.sf-menu').sftouchscreen();*/
+		});
+</script>
+					<div class="clear"></div>
+				</div>
+			</div>
+												<div id="rt-feature">
+				<div class="rt-container">
+										<div class="clear"></div>
+				</div>
+			</div>
+																		          
+			<div id="rt-main" class="mb16">
+                <div class="rt-container">
+                    <div class="rt-grid-16 ">
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	
+
+<!-- K2 user register form -->
+
+<form action="/joomla_39093/index.php/sign-in" enctype="multipart/form-data" method="post" id="josForm" name="josForm" class="form-validate">
+		<div class="componentheading">
+		<h2>Sign In</h2>
+	</div>
+		<div id="k2Container" class="k2AccountPage">
+	
+				<h2 class="k2ProfileHeading">Account details</h2>
+			
+			<dl>
+				<dt class="key"><label id="namemsg" for="name">Name</label></dt>
+				<dd><input type="text" name="jform[name]" id="name" size="40" value="" class="inputbox required" maxlength="50" />
+					*</dd>
+			
+				<dt class="key"><label id="usernamemsg" for="username">Username</label></dt>
+				<dd><input type="text" id="username" name="jform[username]" size="40" value="" class="inputbox required validate-username" maxlength="25" /> *</dd>
+			
+				<dt class="key"><label id="emailmsg" for="email">Email</label></dt>
+				<dd><input type="text" id="email" name="jform[email1]" size="40" value="" class="inputbox required validate-email" maxlength="100" /> *</dd>
+			
+						
+				<dt class="key"><label id="email2msg" for="email2">Confirm email</label></dt>
+				<dd><input type="text" id="email2" name="jform[email2]" size="40" value="" class="inputbox required validate-email" maxlength="100" /> *</dd>
+			
+						
+				<dt class="key"><label id="pwmsg" for="password">Password</label></dt>
+				<dd><input class="inputbox required validate-password" type="password" id="password" name="jform[password1]" size="40" value="" /> *</dd>
+			
+				<dt class="key"><label id="pw2msg" for="password2">Verify password</label></dt>
+				<dd><input class="inputbox required validate-passverify" type="password" id="password2" name="jform[password2]" size="40" value="" /> *</dd>
+			</dl>
+			
+				<h2 class="k2ProfileHeading">Personal Details</h2>
+			
+			<!-- K2 attached fields -->
+			
+			<dl>
+				<dt class="key"><label id="gendermsg" for="gender">Gender</label></dt>
+				<dd class="gender">
+	<input type="radio" name="gender" id="genderm" value="m"  checked="checked" />
+	<label for="genderm" id="genderm-lbl" class="radiobtn">Male</label>
+	<input type="radio" name="gender" id="genderf" value="f"  />
+	<label for="genderf" id="genderf-lbl" class="radiobtn">Female</label>
+</dd>
+				<dt class="key editor"><label id="descriptionmsg" for="description">Description</label></dt>
+				<dd class="editor"><textarea name="description" id="description" cols="" rows="" style="width:100%; height:250px;" class="mce_editable"></textarea>
+
+<div class="toggle-editor">
+<div class="button2-left"><div class="blank"><a href="#" onclick="tinyMCE.execCommand('mceToggleEditor', false, 'description');return false;" title="Toggle editor">Toggle editor</a></div></div></div>
+</dd>
+			
+				<dt class="key"><label id="imagemsg" for="image">User image (avatar)</label></dt>
+				<dd>
+					<input type="file" id="image" name="image"/>
+									</dd>
+			
+				<dt class="key"><label id="urlmsg" for="url">URL</label></dt>
+				<dd><input type="text" size="50" value="" name="url" id="url"/></dd>
+			</dl>
+			
+			
+<!-- Joomla! 1.6+ JForm implementation -->
+						
+
+													
+				
+		<div class="k2AccountPageNotice">Fields marked with an asterisk (*) are required.</div>
+		<div class="k2AccountPageUpdate">
+			<button class="button validate" type="submit">
+				Register			</button>
+		</div>
+	</div>
+	<input type="hidden" name="option" value="com_users" />
+	<input type="hidden" name="task" value="registration.register" />
+	<input type="hidden" name="id" value="0" />
+	<input type="hidden" name="gid" value="0" />
+	<input type="hidden" name="K2UserForm" value="1" />
+	<input type="hidden" name="6380fa7c1d01da3b8dfcbeb08dba4467" value="1" /></form>
+
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                        
+                       <div class="clear"></div>
+                </div>
+            </div>
+												<div class="push"></div>
+		</div>
+				
+		<div id="footer">
+			<div class="footer-container">
+			
+								<div id="rt-footer">
+					<div class="rt-container">
+						<div class="rt-grid-3 rt-alpha">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Our    Company</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-134"><a href="#" ><span>About Us</span></a></li><li id="item-135"><a href="#" ><span>Work Team</span></a></li><li id="item-136"><a href="#" ><span>What We Do</span></a></li><li id="item-137"><a href="#" ><span>Clients</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-3">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Advice</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-142"><a href="#" ><span>Recent Issues</span></a></li><li id="item-143"><a href="#" ><span>FAQ</span></a></li><li id="item-144"><a href="#" ><span>Solutions</span></a></li><li id="item-145"><a href="/joomla_39093/index.php/contacts" ><span>Contacts</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-3">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Popular    Items</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-138"><a href="#" ><span>Affiliate Program</span></a></li><li id="item-139"><a href="#" ><span>Production</span></a></li><li id="item-140"><a href="#" ><span>Risk Management</span></a></li><li id="item-141"><a href="#" ><span>Consultation</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-4">
+                        <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">Join    In</h2>
+				</div>
+                                
+<ul class="menu">
+<li id="item-149" class="current active"><a href="/joomla_39093/index.php/sign-in" ><span>Sign In</span></a></li><li id="item-150"><a href="#" ><span>Forums</span></a></li><li id="item-151"><a href="#" ><span>Promotions</span></a></li></ul>            </div>
+        	
+</div>
+<div class="rt-grid-3 rt-omega">
+                        <div class="rt-block">
+                                <div class="smile" style="text-align: left "><ul> <li><a style="margin:3px;" rel="nofollow" href="#" target="_blank"><img src="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/icons/custom/size1/feed.png " alt="Feed" title="RSS Feed" />RSS Feed</a><li><a style="margin:3px;" rel="nofollow" href="#" target="_blank"><img src="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/icons/custom/size1/facebook.png " alt="Facebook" title="Follow us on Facebook" />Facebook</a></li><li><a style="margin:3px;" rel="nofollow" href="#" target="_blank"><img src="http://livedemo00.template-help.com/joomla_39093/modules/mod_socialmedialinks/icons/custom/size1/twitter.png " alt="Twitter" title="Follow us on Twitter" />Twitter</a></li><div class="smilecredits" style="text-align:text-align: left ;margin: 0px 3px 0px 3px;"><a href="http://www.viperwebsites.com/" title="Social Media Icons for Joomla!">Social Media Icons for Joomla!</a></div>	</ul>
+	</div>
+    <div class="clr"></div>
+            </div>
+        	
+</div>
+						 						<div class="clear"></div>
+					</div>
+				</div>
+							
+								<div id="rt-copyright">
+					<div class="rt-container">
+						<div class="rt-grid-16 rt-alpha rt-omega">
+    			
+			<div class="clear"></div>
+			<div class="rt-block">
+				<p class="copyright">StarCorp (&copy;) 2013 | <a href="/joomla_39093/index.php/privacy-policy">Privacy Policy</a></p>
+			</div>
+			
+		<div class="clear"></div>
+		<div class="rt-block totop">
+			<a href="#" id="gantry-totop">Scroll to Top</a>
+		</div>
+		
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+																              <div id="rt-popup">
+                                      <div class="rt-block">
+                				<div class="module-title">
+                	<h2 class="title">User Login</h2>
+				</div>
+                                
+<div id="k2ModuleBox85" class="k2LoginBlock">
+	<form action="/joomla_39093/index.php/sign-in" method="post" name="login" id="form-login" >
+			  
+	  <fieldset class="input">
+	    <p id="form-login-username">
+	      <label for="modlgn_username">Username</label>
+	      <input id="modlgn_username" type="text" name="username" class="inputbox" size="18" />
+	    </p>
+	    <p id="form-login-password">
+	      <label for="modlgn_passwd">Password</label>
+	      <input id="modlgn_passwd" type="password" name="password" class="inputbox" size="18" />
+	    </p>
+	    	    <p id="form-login-remember">
+	      <label for="modlgn_remember">Remember me</label>
+	      <input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" />
+	    </p>
+	    	    
+	    <input type="submit" name="Submit" class="button" value="Login" />
+	  </fieldset>
+	  
+	  <ul>
+	    <li><a href="/joomla_39093/index.php/sign-in?view=reset">Forgot your password?</a></li>
+	    <li><a href="/joomla_39093/index.php/sign-in?view=remind">Forgot your username?</a></li>
+	    	    <li><a href="/joomla_39093/index.php/sign-in?view=registration">Create an account</a></li>
+	    	  </ul>
+	  
+	  	  
+	  <input type="hidden" name="option" value="com_users" />
+	  <input type="hidden" name="task" value="user.login" />
+	  <input type="hidden" name="return" value="L2pvb21sYV8zOTA5My9pbmRleC5waHAvc2lnbi1pbj92aWV3PXJlZ2lzdHJhdGlvbg==" />
+	  <input type="hidden" name="6380fa7c1d01da3b8dfcbeb08dba4467" value="1" />	</form>
+</div>
+            </div>
+        	
+              </div>
+
+			</div>
+		</div>
+		</div>
+
+<!--LIVEDEMO_00 -->
+
+<script type="text/javascript">/* CloudFlare analytics upgrade */
+</script>
+
+	</body>
+</html>
